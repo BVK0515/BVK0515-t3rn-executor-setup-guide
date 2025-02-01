@@ -32,15 +32,6 @@ cd executor/executor/bin
 # Open a screen session:
 screen -S t3rn  
 
-# Set environment variables:
-export NODE_ENV=testnet
-export LOG_LEVEL=debug
-export LOG_PRETTY=false
-export EXECUTOR_PROCESS_ORDERS=true
-export EXECUTOR_PROCESS_CLAIMS=true
-export EXECUTOR_MAX_L3_GAS_PRICE=50
-export EXECUTOR_PROCESS_PENDING_ORDERS_FROM_API=false
-
 # Replace with your private key:
 export PRIVATE_KEY_LOCAL=your-private-key
 
