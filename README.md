@@ -60,12 +60,12 @@ export EXECUTOR_MAX_L3_GAS_PRICE=2500
 # To reattach the screen session:
 screen -r t3rn
 
-Additional Resources
-Official Documentation: T3rn Docs
-Faucet: T3rn Faucet
-Bridge UI: T3rn Bridge
-Community:
-Twitter
+# 1. Additional Resources:
+- **Official Documentation**: [T3rn Docs](https://t3rn.io/docs)
+- **Faucet**: [T3rn Faucet](https://faucet.t3rn.io)
+- **Bridge UI**: [T3rn Bridge](https://bridge.t3rn.io)
+- **Community**: [Twitter](https://x.com/Swarup54502259)
+
 
 ```
 
